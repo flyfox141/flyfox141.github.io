@@ -19,12 +19,13 @@ Conferences
 1. Hao Xu, Harry Chang, Wenjun Zhu, Yang Hong, Geoff Langdale, **Kun Qiu**, Jin Zhao, “Harry: A Scalable SIMD-based Multi-literal Pattern Matching Engine for Deep Packet Inspection”, IEEE International Conference on Computer Communications (INFOCOM), 2023, New York area
 2. **Kun Qiu**, Harry Chang, Ying Wang, Xiahui Yu, Wenjun Zhu, Yingqi Liu, Jianwei Ma, Weigang Li, Xiaobo Liu, Shuo Dai, “Traffic Analytics Development Kits (TADK): Enable Real-Time AI Inference in Networking Apps”, International Conference on Ubiquitous and Future Networks (ICUFN), 2022, 
  Barcelona, Spain
-3. Wenjun Zhu, Harry Chang, Yang Hong, Xiang Wang, Geoff Langdale, **Kun Qiu**, Mingyi Zhang, “Hyperverse: A High Throughput Pattern Matching Engine for Metaverse”, IEEE International Conference on Distributed Computing Systems (ICDCS), 2022, workshop paper, Bologna, Italy
+3. Wenjun Zhu, Harry Chang, Yang Hong, Xiang Wang, Geoff Langdale, **Kun Qiu**, Mingyi Zhang, “Hyperverse: A High Throughput Pattern Matching Engine for Metaverse”, IEEE International Conference on Distributed Computing Systems (ICDCS), 2022, Workshop Paper, Bologna, Italy
 4. **Kun Qiu**, Harry Chang, Yang Hong, Wenjun Zhu, Xiang Wang, Baoqian Li, “Teddy: An Efficient SIMD-based Literal Matching Engine for Scalable Deep Packet Inspection”, International Conference on Parallel Processing (ICPP), 2021, Lemont, Illinois, USA
-5. **Kun Qiu**, Yuanyang Zhu, Jing Yuan, Jin Zhao, Xin Wang, and Tilman Wolf, “ParaPLL: Fast Parallel Shortest-path Distance Query on Large-scale Weighted Graphs,” in Proc. International Conference on Parallel Processing (ICPP), 2018, Eugene, Oregon, USA
-6. **Kun Qiu**, Jing Yuan, Jin Zhao, Xin Wang, Stefano Secci, and Xiaoming Fu, “Fast Lookup Is Not Enough: Towards Efficient and Scalable Flow Entry Updates for TCAM-based OpenFlow Switches,” in Proc. IEEE International Conference on Distributed Computing Systems (ICDCS), 2018, Vienna, Austria
-7. **Kun Qiu**, Renlong Tu, Siyuan Huang, Jin Zhao, Xin Wang, “cCluster: A Highly Scalable and Elastic OpenFlow Control Plane,” IEEE/ACM International Symposium on Quality of Service (IWQoS), 2015, short paper, Portland, Oregon, USA
-8. **Kun Qiu**, Zhe Chen, Yang Chen, Jin Zhao, Xin Wang, “GFlow: Towards GPU-based High-Performance Table Matching in OpenFlow Switches,” IEEE International Conference on Information Networking (ICOIN), 2015, Siem Reap, Cambodia
+5. **Kun Qiu**, Ying Wang, Baoqian Li, “An Unsupervised Learning Based Encrypted Mobile Traffic Cleaning Framework", International Joint Conference on Artificial Intelligence (IJCAI), 2020, Workshop Paper, Yokohama, Japan, [Online Access](https://flyfox141.github.io/files/kunqiu-ijcai2020.pdf)
+6. **Kun Qiu**, Yuanyang Zhu, Jing Yuan, Jin Zhao, Xin Wang, and Tilman Wolf, “ParaPLL: Fast Parallel Shortest-path Distance Query on Large-scale Weighted Graphs,” International Conference on Parallel Processing (ICPP), 2018, Eugene, Oregon, USA
+7. **Kun Qiu**, Jing Yuan, Jin Zhao, Xin Wang, Stefano Secci, and Xiaoming Fu, “Fast Lookup Is Not Enough: Towards Efficient and Scalable Flow Entry Updates for TCAM-based OpenFlow Switches,” IEEE International Conference on Distributed Computing Systems (ICDCS), 2018, Vienna, Austria
+8. **Kun Qiu**, Renlong Tu, Siyuan Huang, Jin Zhao, Xin Wang, “cCluster: A Highly Scalable and Elastic OpenFlow Control Plane,” IEEE/ACM International Symposium on Quality of Service (IWQoS), 2015, Short Paper, Portland, Oregon, USA
+9. **Kun Qiu**, Zhe Chen, Yang Chen, Jin Zhao, Xin Wang, “GFlow: Towards GPU-based High-Performance Table Matching in OpenFlow Switches,” IEEE International Conference on Information Networking (ICOIN), 2015, Siem Reap, Cambodia
 
 Patents
 =====
@@ -36,14 +37,14 @@ Patents
 
 Talks
 =====
-1. “Inline inferencing for network functions with TADK" (in Chinese), Intel Network Technical Summit, 2023, [Online](https://www.bilibili.com/video/BV1y14y1D7KM/)
-2. “AI Powers Network Security - Build an Intelligent Network Application Firewall using TADK" (in Chinese), OpenAnolis Tech MeetUp, Shanghai, Jul. 2023, [Online](https://openanolis.cn/video/888131992230496454)
-3. “Cloud Security AI - Inline inferencing for network functions with TADK" (in Chinese), Intel Network Technical Summit, 2021, [Online](https://www.bilibili.com/video/BV1pi4y1R72b/)
-4. “AI empowers cloud security" (in Chinese), Intel Internet Industry and Innovation Practice Workshop, 2021, [Online](https://www.bilibili.com/video/BV1y5411k7P8/) 
+1. “Inline inferencing for network functions with TADK" (in Chinese), Intel Network Technical Summit, 2023, [Online URL](https://www.bilibili.com/video/BV1y14y1D7KM/)
+2. “AI Powers Network Security - Build an Intelligent Network Application Firewall using TADK" (in Chinese), OpenAnolis Tech MeetUp, Shanghai, Jul. 2023, [Online URL](https://openanolis.cn/video/888131992230496454)
+3. “Cloud Security AI - Inline inferencing for network functions with TADK" (in Chinese), Intel Network Technical Summit, 2021, [Online URL](https://www.bilibili.com/video/BV1pi4y1R72b/)
+4. “AI empowers cloud security" (in Chinese), Intel Internet Industry and Innovation Practice Workshop, 2021, [Online URL](https://www.bilibili.com/video/BV1y5411k7P8/) 
 
 Whitepapers
 =====
-1. “ZTE's High Performance 5G UPF DPI Implementation Based on Intel® TADK", Aug 17, 2022, [Online](https://networkbuilders.intel.com/solutionslibrary/ztes-high-performance-5g-upf-dpi-implementation-based-on-intelr-tadk)
-2. “NSFOCUS Tianshu Lab introduces Intel® Traffic Analysis Development Tool Suite to create an AI high-performance detection solution for web attacks" (in Chinese), 2022, [Online](https://www.intel.cn/content/www/cn/zh/artificial-intelligence/tadk-create-ai-high-performance-detection-solution.html)
-3. “GreenNet uses Intel® TADK to provide AI-based intelligent DPI detection solution" (in Chinese), 2021, [Online](https://www.intel.cn/content/www/cn/zh/customer-spotlight/cases/greenet-tadk-intelligent-dpi-detection-solution.html)
+1. “ZTE's High Performance 5G UPF DPI Implementation Based on Intel® TADK", Aug 17, 2022, [Online URL](https://networkbuilders.intel.com/solutionslibrary/ztes-high-performance-5g-upf-dpi-implementation-based-on-intelr-tadk)
+2. “NSFOCUS Tianshu Lab introduces Intel® Traffic Analysis Development Tool Suite to create an AI high-performance detection solution for web attacks" (in Chinese), 2022, [Online URL](https://www.intel.cn/content/www/cn/zh/artificial-intelligence/tadk-create-ai-high-performance-detection-solution.html)
+3. “GreenNet uses Intel® TADK to provide AI-based intelligent DPI detection solution" (in Chinese), 2021, [Online URL](https://www.intel.cn/content/www/cn/zh/customer-spotlight/cases/greenet-tadk-intelligent-dpi-detection-solution.html)
 
