@@ -35,6 +35,10 @@ Patents
 4. **Kun Qiu**. (2022). “Flexible deterministic finite automata (DFA) tokenizer for AI-based malicious traffic detection”. United States Patent, US20220279013A1”. Filed: May 13, 2022. Published: Sep. 1, 2022
 5. **Kun Qiu**. (2022). “Techniques for use of a large scale multi-literal matching algorithm”. United States Patent, US20220113969A1. Filed: December 22, 2021. Published: April 14, 2022.
 
+Industrial Conference
+=====
+1. **Kun Qiu**, Harry Chang, “Introducing Hardware Content Inspection Accelerator Into the Network Security Applications", DPDK Summit APAC. 2021, [Online URL](https://www.youtube.com/watch?v=Y06CJqwYLX4&list=PLo97Rhbj4ceL0lMBAtl254XYNZ4zS3Mbi&index=10)
+
 Talks
 =====
 1. “Inline inferencing for network functions with TADK" (in Chinese), Intel Network Technical Summit, 2023, [Online URL](https://www.bilibili.com/video/BV1y14y1D7KM/)
