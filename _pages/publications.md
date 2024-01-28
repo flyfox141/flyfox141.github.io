@@ -36,8 +36,14 @@ Patents
 
 Talks
 =====
-1. AI Security Talk (in Chinese)
-
+1. “Inline inferencing for network functions with TADK" (in Chinese), Intel Network Technical Summit, 2023, [Online](https://www.bilibili.com/video/BV1y14y1D7KM/)
+2. “AI Powers Network Security - Build an Intelligent Network Application Firewall using TADK" (in Chinese), OpenAnolis Tech MeetUp, Shanghai, Jul. 2023, [Online](https://openanolis.cn/video/888131992230496454)
+3. “Cloud Security AI - Inline inferencing for network functions with TADK" (in Chinese), Intel Network Technical Summit, 2021, [Online](https://www.bilibili.com/video/BV1pi4y1R72b/)
+4. “AI empowers cloud security" (in Chinese), Intel Internet Industry and Innovation Practice Workshop, 2021, [Online](https://www.bilibili.com/video/BV1y5411k7P8/) 
 
 Whitepapers
 =====
+1. “ZTE's High Performance 5G UPF DPI Implementation Based on Intel® TADK", Aug 17, 2022, [Online](https://networkbuilders.intel.com/solutionslibrary/ztes-high-performance-5g-upf-dpi-implementation-based-on-intelr-tadk)
+2. “NSFOCUS Tianshu Lab introduces Intel® Traffic Analysis Development Tool Suite to create an AI high-performance detection solution for web attacks" (in Chinese), 2022, [Online](https://www.intel.cn/content/www/cn/zh/artificial-intelligence/tadk-create-ai-high-performance-detection-solution.html)
+3. “GreenNet uses Intel® TADK to provide AI-based intelligent DPI detection solution" (in Chinese), 2021, [Online](https://www.intel.cn/content/www/cn/zh/customer-spotlight/cases/greenet-tadk-intelligent-dpi-detection-solution.html)
+
