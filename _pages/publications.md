@@ -35,8 +35,17 @@ Patents
 1. **Kun Qiu**. (2024), "NeoHarry - High-performance Parallel Multi-literal Matching Algorithm", United States Patent, In Publishing
 2. **Kun Qiu**. (2023). “Heavy Hitter Flow Detection”, United States Patent, US20230239244A1, Filed: Mar. 2023. Published: Jul. 2023.
 3. **Kun Qiu**. (2022). “Techniques to encode and decode for character class matching”. United States Patent, US20220171628A1. Filed: February 17, 2022. Published: June 2, 2022.
-4. **Kun Qiu**.(2022). “Flexible deterministic finite automata (DFA) tokenizer for AI-based malicious traffic detection”. United States Patent, US20220279013A1”. Filed: May 13, 2022. Published: Sep. 1, 2022
-5. **Kun Qiu**.(2022). “Techniques for use of a large scale multi-literal matching algorithm”. United States Patent, US20220113969A1. Filed: December 22, 2021. Published: April 14, 2022.
+4. **Kun Qiu**. (2022). “Flexible deterministic finite automata (DFA) tokenizer for AI-based malicious traffic detection”. United States Patent, US20220279013A1”. Filed: May 13, 2022. Published: Sep. 1, 2022
+5. **Kun Qiu**. (2022). “Techniques for use of a large scale multi-literal matching algorithm”. United States Patent, US20220113969A1. Filed: December 22, 2021. Published: April 14, 2022.
+
+Talks
+=====
+1. AI Security Talk (in Chinese)
+
+
+Whitepapers
+=====
+
 
 ;{% for post in site.publications reversed %}
 ;  {% include archive-single.html %}
