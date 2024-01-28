@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor within the School of Computer Science at Fudan University. Before joining Fudan, I was a senior software engineer at Network and Edge Business Group (NEX), Intel. My recent research interests include satellite networks, traffic analytics, network security, and data-center networks. (Email: [Email](../images/Email.jpg))
+I am an Assistant Professor within the School of Computer Science at Fudan University. Before joining Fudan, I was a senior software engineer at Network and Edge Business Group (NEX), Intel. My recent research interests include satellite networks, traffic analytics, network security, and data-center networks. (Email: [Email](../images/email.png))
 
 A data-driven personal website
 ======
