@@ -3,7 +3,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
 You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+
 Journals
 =====
 1. Hao Xu, Harry Chang, **Kun Qiu**, Yang Hong, Wenjun Zhu, Xiang Wang, Baoqian Li, Jin Zhao, “Accelerating Deep Packet Inspection With SIMD-Based Multi-Literal Matching Engine", IEEE Transactions on Network and Service Management, to be published, Jan. 2024
