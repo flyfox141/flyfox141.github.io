@@ -54,10 +54,14 @@ Services
 * **TPC Member**
   * IEEE Network of Future (NoF) 2023, TPC
 * **Reviewers**
-  * Many conferences and journals in computer networking.  
+  * Many conferences and journals such as INFOCOM, JSAC, TNSM, ICC, etc. in computer networking.  
 
 Students
 =====
 * **For Prospective Students**
+ 
+We are recruiting Ph.D./M.Sc./undergraduate students. Research positions are available for highly motivated students with a background in computer networking or communication science. Guidelines can be found [here](https://flyfox141.github.io/recruitment/).
 
-Our lab is recruiting Ph.D./M.Sc./undergraduate students. Research positions are available for highly motivated students with a background in computer networking. If you are interested in this area, please send me an email with your resume. Guidelines can be found here.
+* **For Postdoctoral Researchers**
+ 
+We are recruiting Postdoctoral Researchers. Researchers positions are available in Space-Air-Ground Integrated Networks (SAGIN). The successful candidates will contribute research to the advancements in SAGIN. Guidelines can be found [here](https://flyfox141.github.io/recruitment/).
