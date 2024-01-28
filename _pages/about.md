@@ -56,7 +56,7 @@ Services
 * **Reviewers**
   * Many conferences and journals such as INFOCOM, JSAC, TNSM, ICC, etc. in computer networking.  
 
-Students
+Recruitment
 =====
 * **For Prospective Students**
  
