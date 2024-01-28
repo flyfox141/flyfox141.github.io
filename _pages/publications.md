@@ -27,6 +27,10 @@ Conferences
 8. **Kun Qiu**, Renlong Tu, Siyuan Huang, Jin Zhao, Xin Wang, “cCluster: A Highly Scalable and Elastic OpenFlow Control Plane,” IEEE/ACM International Symposium on Quality of Service (IWQoS), 2015, Short Paper, Portland, Oregon, USA
 9. **Kun Qiu**, Zhe Chen, Yang Chen, Jin Zhao, Xin Wang, “GFlow: Towards GPU-based High-Performance Table Matching in OpenFlow Switches,” IEEE International Conference on Information Networking (ICOIN), 2015, Siem Reap, Cambodia
 
+Industrial Conferences
+=====
+1. **Kun Qiu**, Harry Chang, “Introducing Hardware Content Inspection Accelerator Into the Network Security Applications", DPDK Summit APAC. 2021, [Online URL](https://www.youtube.com/watch?v=Y06CJqwYLX4&list=PLo97Rhbj4ceL0lMBAtl254XYNZ4zS3Mbi&index=10)
+
 Patents
 =====
 1. **Kun Qiu**. (2024), "NeoHarry - High-performance Parallel Multi-literal Matching Algorithm", United States Patent, In Publishing
@@ -34,10 +38,6 @@ Patents
 3. **Kun Qiu**. (2022). “Techniques to encode and decode for character class matching”. United States Patent, US20220171628A1. Filed: February 17, 2022. Published: June 2, 2022.
 4. **Kun Qiu**. (2022). “Flexible deterministic finite automata (DFA) tokenizer for AI-based malicious traffic detection”. United States Patent, US20220279013A1”. Filed: May 13, 2022. Published: Sep. 1, 2022
 5. **Kun Qiu**. (2022). “Techniques for use of a large scale multi-literal matching algorithm”. United States Patent, US20220113969A1. Filed: December 22, 2021. Published: April 14, 2022.
-
-Industrial Conferences
-=====
-1. **Kun Qiu**, Harry Chang, “Introducing Hardware Content Inspection Accelerator Into the Network Security Applications", DPDK Summit APAC. 2021, [Online URL](https://www.youtube.com/watch?v=Y06CJqwYLX4&list=PLo97Rhbj4ceL0lMBAtl254XYNZ4zS3Mbi&index=10)
 
 Talks
 =====
