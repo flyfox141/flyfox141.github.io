@@ -2,8 +2,6 @@
 title: "Personal"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 Music Producer
