@@ -60,7 +60,7 @@ Recruitment
 =====
 * **For Prospective Students**
  
-We are recruiting Ph.D./M.Sc./undergraduate students. Research positions are available for highly motivated students with a background in computer networking or communication science. Guidelines can be found [here](https://flyfox141.github.io/recruitment/).
+We are recruiting Ph.D./M.Sc./undergraduate students. Research positions are available for highly motivated students with a background in computer networking or communication science. Guidelines can be found [here](https://flyfox141.github.io/students/).
 
 * **For Postdoctoral Researchers**
  
