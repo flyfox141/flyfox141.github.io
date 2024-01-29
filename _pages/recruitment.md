@@ -48,4 +48,4 @@ The positions are to be filled at the earliest possible date and are offered for
 
 Application deadline: **31/05/2024** (incoming applications will be continuously evaluated)
 
-For further information or questions, please feel free to contact Dr. Kun Qiu (qkun@fudan.edu.cn/qkun@ieee.org) or refer to our [website](inc.fudan.edu.cn/incenglish/).
+For further information or questions, please feel free to contact Dr. Kun Qiu (Email: ![Email](https://github.com/flyfox141/flyfox141.github.io/blob/master/images/email.png?raw=true)) or refer to our [website](inc.fudan.edu.cn/incenglish/).
