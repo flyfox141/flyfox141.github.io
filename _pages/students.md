@@ -4,7 +4,7 @@ permalink: /students/
 author_profile: true
 ---
 
-We are actively looking for **_self-motivated_** Ph.D./M.Sc./undergraduate students to join our research team. I have been working on computer networks and distributed systems for several years. Particularly, we are highly interested in space-air-ground integrated networks. Also, We enjoy building practical real-world systems and getting them deployed in diverse network environments.
+We are actively looking for **_self-motivated_** Ph.D./M.Sc./undergraduate students to join our research team. I have been working on computer networks and distributed systems for several years. Particularly, we are highly interested in space-air-ground integrated networks. Also, We enjoy building practical real-world systems and getting them deployed in diverse network environments. For more information, please refer to our [website](inc.fudan.edu.cn/incenglish/).
 
 **We expect the following from our students:**
 * A strong passion for exploring challenging problems in the field of computer networks or communication science.
