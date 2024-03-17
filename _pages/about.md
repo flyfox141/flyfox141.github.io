@@ -40,7 +40,7 @@ Work experience
 Publications
 ======
 **Recent papers**
-  * Our recent paper was accepted by **IEEE TNSM**
+  * Our recent papers were accepted by **IEEE TNSM** and **PTP JCIN**
 
 A list can be found [here](https://flyfox141.github.io/publications/)
 
