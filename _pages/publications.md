@@ -8,11 +8,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 Journals
 =====
-1. Hao Xu, Harry Chang, **Kun Qiu**, Yang Hong, Wenjun Zhu, Xiang Wang, Baoqian Li, Jin Zhao, “Accelerating Deep Packet Inspection With SIMD-Based Multi-Literal Matching Engine", IEEE Transactions on Network and Service Management, to be published, Jan. 2024
-2. **Kun Qiu**, Jin Zhao, Xin Wang, Xiaoming Fu, Stefano Secci, “Efficient Recovery Path Computation for Fast Reroute in Large-scale Software Defined Networks,” IEEE Journal on Selected Areas in Communications, Vol. 37(8):1755-1768, Aug. 2019.
-3. **Kun Qiu**, Jing Yuan, Jin Zhao, Xin Wang, Stefano Secci, and Xiaoming Fu, “FastRule: Efficient Flow Entry Updates for TCAM-Based OpenFlow Switches,” IEEE Journal on Selected Areas in Communications, Vol. 37(3):484-498, Mar. 2019.
-4. **Kun Qiu**, Siyuan Huang, Qiongwen Xu, Jin Zhao, Xin Wang, Stefano Secci, “ParaCon: A Parallel Control Plane for Scaling Up Path Computation in SDN,” IEEE Transactions on Network and Service Management, 2017, 14 (4):978-990.
-5. **Kun Qiu**, Fang Yuquan, Lu Wei, Jin Zhao, “A Design of OpenFlow Switch Based on General Broadband Router", 《基于通用宽带路由器的OpenFlow交换机设计》(in Chinese), Computer Applications and Software, 2016, Vol.33(11):84-89, Nov. 2016.
+1. Yue Gao, **Kun Qiu**, Zhe Chen, Wenjun Zhu, Qi Zhang, Handong Luo, Quanwei Lin, Ziheng Yang, Wenhao Liu, “Plotinus: A Satellite Internet Digital Twin System”, PTP Journal of Communications and Information Networks, Vol. 9(1):23-32, Mar. 2024
+2. Hao Xu, Harry Chang, **Kun Qiu**, Yang Hong, Wenjun Zhu, Xiang Wang, Baoqian Li, Jin Zhao, “Accelerating Deep Packet Inspection With SIMD-Based Multi-Literal Matching Engine", IEEE Transactions on Network and Service Management, to be published, Jan. 2024
+3. **Kun Qiu**, Jin Zhao, Xin Wang, Xiaoming Fu, Stefano Secci, “Efficient Recovery Path Computation for Fast Reroute in Large-scale Software Defined Networks,” IEEE Journal on Selected Areas in Communications, Vol. 37(8):1755-1768, Aug. 2019.
+4. **Kun Qiu**, Jing Yuan, Jin Zhao, Xin Wang, Stefano Secci, and Xiaoming Fu, “FastRule: Efficient Flow Entry Updates for TCAM-Based OpenFlow Switches,” IEEE Journal on Selected Areas in Communications, Vol. 37(3):484-498, Mar. 2019.
+5. **Kun Qiu**, Siyuan Huang, Qiongwen Xu, Jin Zhao, Xin Wang, Stefano Secci, “ParaCon: A Parallel Control Plane for Scaling Up Path Computation in SDN,” IEEE Transactions on Network and Service Management, 2017, 14 (4):978-990.
+6. **Kun Qiu**, Fang Yuquan, Lu Wei, Jin Zhao, “A Design of OpenFlow Switch Based on General Broadband Router", 《基于通用宽带路由器的OpenFlow交换机设计》(in Chinese), Computer Applications and Software, 2016, Vol.33(11):84-89, Nov. 2016.
 
 Conferences
 =====
