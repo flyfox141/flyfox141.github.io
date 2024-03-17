@@ -52,7 +52,7 @@ Services
   * IEEE Member
   * ACM Member
 * **TPC Member**
-  * IEEE Network of Future (NoF) 2023, TPC
+  * IEEE Network of Future (NoF) 2023, 2024, TPC
 * **Reviewers**
   * Many conferences and journals such as INFOCOM, JSAC, TNSM, ICC, etc. in computer networking.  
 
