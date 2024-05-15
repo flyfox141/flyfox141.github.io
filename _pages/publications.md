@@ -17,16 +17,17 @@ Journals
 
 Conferences
 =====
-1. Hao Xu, Harry Chang, Wenjun Zhu, Yang Hong, Geoff Langdale, **Kun Qiu**, Jin Zhao, “Harry: A Scalable SIMD-based Multi-literal Pattern Matching Engine for Deep Packet Inspection”, IEEE International Conference on Computer Communications (INFOCOM), 2023, New York area
-2. **Kun Qiu**, Harry Chang, Ying Wang, Xiahui Yu, Wenjun Zhu, Yingqi Liu, Jianwei Ma, Weigang Li, Xiaobo Liu, Shuo Dai, “Traffic Analytics Development Kits (TADK): Enable Real-Time AI Inference in Networking Apps”, International Conference on Ubiquitous and Future Networks (ICUFN), 2022, 
- Barcelona, Spain
-3. Wenjun Zhu, Harry Chang, Yang Hong, Xiang Wang, Geoff Langdale, **Kun Qiu**, Mingyi Zhang, “Hyperverse: A High Throughput Pattern Matching Engine for Metaverse”, IEEE International Conference on Distributed Computing Systems (ICDCS), 2022, Workshop Paper, Bologna, Italy
-4. **Kun Qiu**, Harry Chang, Yang Hong, Wenjun Zhu, Xiang Wang, Baoqian Li, “Teddy: An Efficient SIMD-based Literal Matching Engine for Scalable Deep Packet Inspection”, International Conference on Parallel Processing (ICPP), 2021, Lemont, Illinois, USA
-5. **Kun Qiu**, Ying Wang, Baoqian Li, “An Unsupervised Learning Based Encrypted Mobile Traffic Cleaning Framework", International Joint Conference on Artificial Intelligence (IJCAI), 2020, Workshop Paper, Yokohama, Japan, [Online Access](https://flyfox141.github.io/files/kunqiu-ijcai2020.pdf)
-6. **Kun Qiu**, Yuanyang Zhu, Jing Yuan, Jin Zhao, Xin Wang, and Tilman Wolf, “ParaPLL: Fast Parallel Shortest-path Distance Query on Large-scale Weighted Graphs,” International Conference on Parallel Processing (ICPP), 2018, Eugene, Oregon, USA
-7. **Kun Qiu**, Jing Yuan, Jin Zhao, Xin Wang, Stefano Secci, and Xiaoming Fu, “Fast Lookup Is Not Enough: Towards Efficient and Scalable Flow Entry Updates for TCAM-based OpenFlow Switches,” IEEE International Conference on Distributed Computing Systems (ICDCS), 2018, Vienna, Austria
-8. **Kun Qiu**, Renlong Tu, Siyuan Huang, Jin Zhao, Xin Wang, “cCluster: A Highly Scalable and Elastic OpenFlow Control Plane,” IEEE/ACM International Symposium on Quality of Service (IWQoS), 2015, Short Paper, Portland, Oregon, USA
-9. **Kun Qiu**, Zhe Chen, Yang Chen, Jin Zhao, Xin Wang, “GFlow: Towards GPU-based High-Performance Table Matching in OpenFlow Switches,” IEEE International Conference on Information Networking (ICOIN), 2015, Siem Reap, Cambodia
+1. Handong Luo, Wenhao Liu, Qi Zhang, Ziheng Yang, Quanwei Lin, Wenjun Zhu, **Kun Qiu**, Zhe Chen, Yue Gao, ”Hurry: Dynamic Collaborative Framework For Low-orbit Mega-Constellation Data Downloading”, International European Conference on Parallel and Distributed Computing (Euro-Par), 2024, Madrid, Spain
+2. Shunbin Dong, Yuming Xie, Jin Zhao, **Kun Qiu**, ”NPV: Fast Network Policy Verification for Cloud-Native Networking”, IEEE International Conference on Distributed Computing Systems (ICDCS), 2024, Jersey City, New Jersey, USA
+3. Hao Xu, Harry Chang, Wenjun Zhu, Yang Hong, Geoff Langdale, **Kun Qiu**, Jin Zhao, “Harry: A Scalable SIMD-based Multi-literal Pattern Matching Engine for Deep Packet Inspection”, IEEE International Conference on Computer Communications (INFOCOM), 2023, New York area
+4. **Kun Qiu**, Harry Chang, Ying Wang, Xiahui Yu, Wenjun Zhu, Yingqi Liu, Jianwei Ma, Weigang Li, Xiaobo Liu, Shuo Dai, “Traffic Analytics Development Kits (TADK): Enable Real-Time AI Inference in Networking Apps”, International Conference on Ubiquitous and Future Networks (ICUFN), 2022, Barcelona, Spain
+5. Wenjun Zhu, Harry Chang, Yang Hong, Xiang Wang, Geoff Langdale, **Kun Qiu**, Mingyi Zhang, “Hyperverse: A High Throughput Pattern Matching Engine for Metaverse”, IEEE International Conference on Distributed Computing Systems (ICDCS), 2022, Workshop Paper, Bologna, Italy
+6. **Kun Qiu**, Harry Chang, Yang Hong, Wenjun Zhu, Xiang Wang, Baoqian Li, “Teddy: An Efficient SIMD-based Literal Matching Engine for Scalable Deep Packet Inspection”, International Conference on Parallel Processing (ICPP), 2021, Lemont, Illinois, USA
+7. **Kun Qiu**, Ying Wang, Baoqian Li, “An Unsupervised Learning Based Encrypted Mobile Traffic Cleaning Framework", International Joint Conference on Artificial Intelligence (IJCAI), 2020, Workshop Paper, Yokohama, Japan, [Online Access](https://flyfox141.github.io/files/kunqiu-ijcai2020.pdf)
+8. **Kun Qiu**, Yuanyang Zhu, Jing Yuan, Jin Zhao, Xin Wang, and Tilman Wolf, “ParaPLL: Fast Parallel Shortest-path Distance Query on Large-scale Weighted Graphs,” International Conference on Parallel Processing (ICPP), 2018, Eugene, Oregon, USA
+9. **Kun Qiu**, Jing Yuan, Jin Zhao, Xin Wang, Stefano Secci, and Xiaoming Fu, “Fast Lookup Is Not Enough: Towards Efficient and Scalable Flow Entry Updates for TCAM-based OpenFlow Switches,” IEEE International Conference on Distributed Computing Systems (ICDCS), 2018, Vienna, Austria
+10. **Kun Qiu**, Renlong Tu, Siyuan Huang, Jin Zhao, Xin Wang, “cCluster: A Highly Scalable and Elastic OpenFlow Control Plane,” IEEE/ACM International Symposium on Quality of Service (IWQoS), 2015, Short Paper, Portland, Oregon, USA
+11. **Kun Qiu**, Zhe Chen, Yang Chen, Jin Zhao, Xin Wang, “GFlow: Towards GPU-based High-Performance Table Matching in OpenFlow Switches,” IEEE International Conference on Information Networking (ICOIN), 2015, Siem Reap, Cambodia
 
 Industrial Conferences
 =====
