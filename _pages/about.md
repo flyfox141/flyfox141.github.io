@@ -40,19 +40,21 @@ Work experience
 Publications
 ======
 **Recent papers**
-  * Our recent papers were accepted by **IEEE TNSM** and **PTP JCIN**
+  * Our recent papers were accepted by **IEEE ICDCS** and **Euro-Par**
 
 A list can be found [here](https://flyfox141.github.io/publications/)
 
 Services
 =====
 * **Membership**
-  * CCF Member
+  * CCF Senior Member
     * CCF Young Computer Scientists & Engineers Forum (YOCSEF), Shanghai Committee Member
-  * IEEE Member
+  * IEEE Senior Member
   * ACM Member
 * **TPC Member**
   * IEEE Network of Future (NoF) 2023, 2024, TPC
+* **OC Member**
+  * International Conference on Network and Service Management (CNSM) 2024, Publicity Chair
 * **Reviewers**
   * Many conferences and journals such as INFOCOM, JSAC, TNSM, ICC, etc. in computer networking.  
 
