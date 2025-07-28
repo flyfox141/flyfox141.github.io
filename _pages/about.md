@@ -29,7 +29,7 @@ Work experience
 ======
 * **Fudan University**
   * Assistant Professor, _September 2023 ~ Now_
-  * Institute of Space Internet ([SPACENET](https://spacenet.fudan.edu.cn/snenglish/)
+  * Institute of Space Internet ([SPACENET])(https://spacenet.fudan.edu.cn/snenglish/)
 * **Intel Asia-Pacific Research & Development Ltd.**
   * Senior Software Engineer, _August 2021 ~ September 2023_
   * Software Engineer, _March 2019 ~ August 2021_
