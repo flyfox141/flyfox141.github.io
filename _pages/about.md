@@ -14,7 +14,7 @@ I am an Assistant Professor within the School of Computer Science at Fudan Unive
 
 News
 ======
-Our labs are looking for two post-docs. The working environment here is international, and the salary is competitive. Let me know if you are interested.
+We are recruiting Ph.D./M.Sc./undergraduate students. Research positions are available for highly motivated students with a background in computer networking or communication science.
 
 Education
 ======
@@ -29,8 +29,7 @@ Work experience
 ======
 * **Fudan University**
   * Assistant Professor, _September 2023 ~ Now_
-  * School of Computer Science 
-  * Intelligent Networking and Computing Lab ([INC](https://inc.fudan.edu.cn/incenglish/))
+  * Institute of Space Internet ([SPACENET](https://spacenet.fudan.edu.cn/snenglish/)
 * **Intel Asia-Pacific Research & Development Ltd.**
   * Senior Software Engineer, _August 2021 ~ September 2023_
   * Software Engineer, _March 2019 ~ August 2021_
@@ -40,21 +39,29 @@ Work experience
 Publications
 ======
 **Recent papers**
-  * Our recent papers were accepted by **IEEE ICDCS** and **Euro-Par**
+  * Our recent papers were accepted by **IEEE ICNP** and **IEEE ICCC**
 
 A list can be found [here](https://flyfox141.github.io/publications/)
 
 Services
 =====
 * **Membership**
+  * CIC Senior Member
+    * 1st Terminology Working Committee of the CIC, Member
+    * 2nd China National ICT Terminology Review Committee, Secretary
   * CCF Senior Member
     * CCF Young Computer Scientists & Engineers Forum (YOCSEF), Shanghai Committee Member
   * IEEE Senior Member
   * ACM Member
 * **TPC Member**
-  * IEEE Network of Future (NoF) 2023, 2024, TPC
+  * IEEE Network of Future (NoF) 2023-2025, TPC
+  * IEEE International Conference on Communications（ICC）2025, TPC Member
+  * International Conference on Big Data Computing and Communications (BIGCOM) 2025, TPC Member
 * **OC Member**
   * International Conference on Network and Service Management (CNSM) 2024, Publicity Chair
+  * IEEE/CIC International Conference on Communications in China (ICCC) 2025, Publication Chair
+  * IEEE International Conference on Distributed Computing Systems (ICDCS) 2024, Session Chair、
+  * IEEE/CIC International Conference on Communications in China (ICCC) 2025, Session Chair
 * **Reviewers**
   * Many conferences and journals such as INFOCOM, JSAC, TNSM, ICC, etc. in computer networking.  
 
