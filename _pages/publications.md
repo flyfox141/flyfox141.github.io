@@ -6,10 +6,16 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=H2ECZykAAAAJ)
 
+Funding
+=====
+* Research on Computation Strategies for Large-Scale Satellite Beam-Hopping Patterns Based on Monte Carlo Tree Search, **Shanghai Natural Science Foundation**, Project No. 25ZR1402021, **Principal Investigator**, Status: Ongoing
+* Research on Satellite Internet Evaluation System, **China Communications Services Corporation Limited**, Project No. CCS-RDC-2024-005, **Principal Investigator**, Status: Ongoing
+
 Journals
 =====
-* Zhiyuan Zhao, Zhe Chen, Zheng Lin, Wenjun Zhu, **Kun Qiu**, Chaoqun You, Yue Gao, ``LEO Satellite Networks Assisted Geo-distributed Data Processing'', IEEE Wireless Communications Letters, In Publishing, Nov. 2024,
-* Wenhao Liu, Jiazhi Wu, Quanwei Lin, Handong Luo, Qi Zhang, **Kun Qiu**, Zhe Chen, Yue Gao, “Efficient Satellite-Ground Interconnection Design for Low-orbit Mega-Constellation Topology”, IEEE Transactions on Mobile Computing, to be published, Nov. 2024
+* Xiangshuai Meng, Jinhu Ou, **Kun Qiu**, Jin Zhao, “Network Traffic Application Identification Method Based on Automatic Generation of Domain Name Rules”,《基于域名规则自动生成的网络流量应用识别方法》(in Chinese), Journal of Cyber Security, to be published **(new!)**
+* Zhiyuan Zhao, Zhe Chen, Zheng Lin, Wenjun Zhu, **Kun Qiu**, Chaoqun You, Yue Gao, ``LEO Satellite Networks Assisted Geo-distributed Data Processing'', IEEE Wireless Communications Letters, Vol. 14(2):405-409, Nov. 2024
+* Wenhao Liu, Jiazhi Wu, Quanwei Lin, Handong Luo, Qi Zhang, **Kun Qiu**, Zhe Chen, Yue Gao, “Efficient Satellite-Ground Interconnection Design for Low-orbit Mega-Constellation Topology”, IEEE Transactions on Mobile Computing, Vol. 24(3):2098–2109, Mar. 2025
 * Yue Gao, **Kun Qiu**, Zhe Chen, Wenjun Zhu, Qi Zhang, Handong Luo, Quanwei Lin, Ziheng Yang, Wenhao Liu, “Plotinus: A Satellite Internet Digital Twin System”, PTP Journal of Communications and Information Networks, Vol. 9(1):23-32, Mar. 2024
 * Hao Xu, Harry Chang, **Kun Qiu**, Yang Hong, Wenjun Zhu, Xiang Wang, Baoqian Li, Jin Zhao, “Accelerating Deep Packet Inspection With SIMD-Based Multi-Literal Matching Engine", IEEE Transactions on Network and Service Management, to be published, Jan. 2024
 * **Kun Qiu**, Jin Zhao, Xin Wang, Xiaoming Fu, Stefano Secci, “Efficient Recovery Path Computation for Fast Reroute in Large-scale Software Defined Networks,” IEEE Journal on Selected Areas in Communications, Vol. 37(8):1755-1768, Aug. 2019.
@@ -19,7 +25,11 @@ Journals
 
 Conferences
 =====
-* Handong Luo, Wenhao Liu, Qi Zhang, Ziheng Yang, Quanwei Lin, Wenjun Zhu, **Kun Qiu**, Zhe Chen, Yue Gao, ”Hurry: Dynamic Collaborative Framework For Low-orbit Mega-Constellation Data Downloading”, International European Conference on Parallel and Distributed Computing (Euro-Par), 2024, Madrid, Spain
+* Jingyi Guan, **Kun Qiu**, Jin Zhao, “ReWeave: Traffic Engineering with Robust Path Weaving for Localized Link Failure Recovery”,  IEEE International Conference on Network Protocols (ICNP), 2025, Seoul, South Korea, to be published **(new!)**
+* Chunyu Yang, Boyu Yang, **Kun Qiu**, Zhe Chen, Yue Gao, “DualAttWaveNet: Multiscale Attention Networks for Satellite Interference Detection”, IEEE/CIC International Conference on Communications in China (ICCC), 2025, Shanghai, China, to be published **(new!)**
+* Qiyuan Peng, Qi Zhang, Yue Gao, **Kun Qiu**, “Dora: A Controller Provisioning Strategy in Hierarchical Domain-based Satellite Networks”, IEEE/CIC International Conference on Communications in China (ICCC), 2025, Shanghai, China, to be published **(new!)**
+* Yaojia Wang, Qi Zhang, **Kun Qiu**, Yue Gao, “Stabilizing and Optimizing Inter-Shell Routing in LEO Networks with Integrated Routing Cost”, IEEE/CIC International Conference on Communications in China (ICCC), 2025, Workshop Paper, Shanghai, China, to be published **(new!)**
+* Handong Luo, Wenhao Liu, Qi Zhang, Ziheng Yang, Quanwei Lin, Wenjun Zhu, **Kun Qiu**, Zhe Chen, Yue Gao, “Hurry: Dynamic Collaborative Framework For Low-orbit Mega-Constellation Data Downloading”, International European Conference on Parallel and Distributed Computing (Euro-Par), 2024, Madrid, Spain
 * Shunbin Dong, Yuming Xie, Jin Zhao, **Kun Qiu**, ”NPV: Fast Network Policy Verification for Cloud-Native Networking”, IEEE International Conference on Distributed Computing Systems (ICDCS), 2024, Jersey City, New Jersey, USA
 * Danqi Li, Ningbo Tian, **Kun Qiu**, Harry Chang, Xiahui Yu, Jin Zhao, “VotePipe: Efficient Heavy Hitter Detection in Programmable Data Plane”, China Conference on Networking (CCF ChinaNet), 2023, Wenzhou, China
 * Hao Xu, Harry Chang, Wenjun Zhu, Yang Hong, Geoff Langdale, **Kun Qiu**, Jin Zhao, “Harry: A Scalable SIMD-based Multi-literal Pattern Matching Engine for Deep Packet Inspection”, IEEE International Conference on Computer Communications (INFOCOM), 2023, New York area
