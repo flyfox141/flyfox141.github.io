@@ -26,6 +26,8 @@ Journals
 Conferences
 =====
 * Jingyi Guan, **Kun Qiu**, Jin Zhao, “ReWeave: Traffic Engineering with Robust Path Weaving for Localized Link Failure Recovery”,  IEEE International Conference on Network Protocols (ICNP), 2025, Seoul, South Korea, to be published **(new!)**
+* **Kun Qiu**, Ying Wang, Baoqian Li, Wenjun Zhu,	“Unsupervised Dataset Cleaning Framework for Encrypted Traffic Classification”, IEEE International Conference on Network Protocols (ICNP), 2025, Poster, Seoul, South Korea, In Publishing **(new!)**
+* Haisong Bi, Jin Zhao, **Kun Qiu**, Tiezhen Jia, Yu Wang, ``Generative Resilient Network Architecture in Untrusted Network Environments'', IEEE International Conference on Network Protocols (ICNP), 2025, Poster, Seoul, South Korea, In Publishing **(new!)**
 * Chunyu Yang, Boyu Yang, **Kun Qiu**, Zhe Chen, Yue Gao, “DualAttWaveNet: Multiscale Attention Networks for Satellite Interference Detection”, IEEE/CIC International Conference on Communications in China (ICCC), 2025, Shanghai, China, to be published **(new!)**
 * Qiyuan Peng, Qi Zhang, Yue Gao, **Kun Qiu**, “Dora: A Controller Provisioning Strategy in Hierarchical Domain-based Satellite Networks”, IEEE/CIC International Conference on Communications in China (ICCC), 2025, Shanghai, China, to be published **(new!)**
 * Yaojia Wang, Qi Zhang, **Kun Qiu**, Yue Gao, “Stabilizing and Optimizing Inter-Shell Routing in LEO Networks with Integrated Routing Cost”, IEEE/CIC International Conference on Communications in China (ICCC), 2025, Workshop Paper, Shanghai, China, to be published **(new!)**
