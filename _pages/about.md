@@ -39,9 +39,17 @@ Work experience
 Publications
 ======
 **Recent papers**
-  * Our recent papers were accepted by **IEEE ICNP** and **IEEE ICCC**
+  * Our recent papers were accepted by **IEEE TNSM**.
 
 A list can be found [here](https://flyfox141.github.io/publications/)
+
+Books
+=====
+**_Discovering Communication Science and Technology via Terms_**, [You can buy](https://product.dangdang.com/12365333838.html) (in Chinese) 
+  
+_14th Five-Year Plan National Key Publications Publication Planning Project_
+
+Editor：Kaizhi Huang, **Kun Qiu**, Jiaxin Wei, Tong Wu, Li You
 
 Services
 =====
@@ -60,7 +68,8 @@ Services
 * **OC Member**
   * International Conference on Network and Service Management (CNSM) 2024, Publicity Chair
   * IEEE/CIC International Conference on Communications in China (ICCC) 2025, Publication Chair
-  * IEEE International Conference on Distributed Computing Systems (ICDCS) 2024, Session Chair、
+  * Workshop on Emerging LEO Satellite Constellation Communication and Network Technologies for 6G Ubiquitous Connectivity, Steering Committee Member
+  * IEEE International Conference on Distributed Computing Systems (ICDCS) 2024, Session Chair
   * IEEE/CIC International Conference on Communications in China (ICCC) 2025, Session Chair
 * **Reviewers**
   * Many conferences and journals such as INFOCOM, JSAC, TNSM, ICC, etc. in computer networking.  
