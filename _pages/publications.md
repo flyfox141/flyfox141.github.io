@@ -13,8 +13,10 @@ Funding
 
 Journals
 =====
+* Yang Liu, Wenjun Zhu, Harry Chang, Yang Hong, Geoff Langdale, **Kun Qiu**, Jin Zhao, “Hyperflex: A SIMD-Based DFA Model for Deep Packet Inspection”, IEEE Transactions on Network and Service
+Management, Dec. 2025, to be published **(new!)**
 * Xiangshuai Meng, Jinhu Ou, **Kun Qiu**, Jin Zhao, “Network Traffic Application Identification Method Based on Automatic Generation of Domain Name Rules”,《基于域名规则自动生成的网络流量应用识别方法》(in Chinese), Journal of Cyber Security, to be published **(new!)**
-* Zhiyuan Zhao, Zhe Chen, Zheng Lin, Wenjun Zhu, **Kun Qiu**, Chaoqun You, Yue Gao, ``LEO Satellite Networks Assisted Geo-distributed Data Processing'', IEEE Wireless Communications Letters, Vol. 14(2):405-409, Nov. 2024
+* Zhiyuan Zhao, Zhe Chen, Zheng Lin, Wenjun Zhu, **Kun Qiu**, Chaoqun You, Yue Gao, “LEO Satellite Networks Assisted Geo-distributed Data Processing“, IEEE Wireless Communications Letters, Vol. 14(2):405-409, Nov. 2024
 * Wenhao Liu, Jiazhi Wu, Quanwei Lin, Handong Luo, Qi Zhang, **Kun Qiu**, Zhe Chen, Yue Gao, “Efficient Satellite-Ground Interconnection Design for Low-orbit Mega-Constellation Topology”, IEEE Transactions on Mobile Computing, Vol. 24(3):2098–2109, Mar. 2025
 * Yue Gao, **Kun Qiu**, Zhe Chen, Wenjun Zhu, Qi Zhang, Handong Luo, Quanwei Lin, Ziheng Yang, Wenhao Liu, “Plotinus: A Satellite Internet Digital Twin System”, PTP Journal of Communications and Information Networks, Vol. 9(1):23-32, Mar. 2024
 * Hao Xu, Harry Chang, **Kun Qiu**, Yang Hong, Wenjun Zhu, Xiang Wang, Baoqian Li, Jin Zhao, “Accelerating Deep Packet Inspection With SIMD-Based Multi-Literal Matching Engine", IEEE Transactions on Network and Service Management, to be published, Jan. 2024
@@ -43,6 +45,10 @@ Conferences
 * **Kun Qiu**, Jing Yuan, Jin Zhao, Xin Wang, Stefano Secci, and Xiaoming Fu, “Fast Lookup Is Not Enough: Towards Efficient and Scalable Flow Entry Updates for TCAM-based OpenFlow Switches,” IEEE International Conference on Distributed Computing Systems (ICDCS), 2018, Vienna, Austria
 * **Kun Qiu**, Renlong Tu, Siyuan Huang, Jin Zhao, Xin Wang, “cCluster: A Highly Scalable and Elastic OpenFlow Control Plane,” IEEE/ACM International Symposium on Quality of Service (IWQoS), 2015, Short Paper, Portland, Oregon, USA
 * **Kun Qiu**, Zhe Chen, Yang Chen, Jin Zhao, Xin Wang, “GFlow: Towards GPU-based High-Performance Table Matching in OpenFlow Switches,” IEEE International Conference on Information Networking (ICOIN), 2015, Siem Reap, Cambodia
+
+Standard
+=====
+* **Kun Qiu**. International Telecommunication Union (ITU)，Working Party 4A, Group 4A1e, 57th Session, 2025, “_Proposed revisions to working document towards a preliminary draft new Recommendation ITU-R S.[NON-GSO MODELLING] - Modelling and simulation of non-GSO FSS systems for use in sharing and compatibility studies_“，No. 4A/723，**Accepted** **(new!)**
 
 Industrial Conferences
 =====
