@@ -13,8 +13,9 @@ Funding
 
 Journals
 =====
-* Yang Liu, Wenjun Zhu, Harry Chang, Yang Hong, Geoff Langdale, **Kun Qiu**, Jin Zhao, “Hyperflex: A SIMD-Based DFA Model for Deep Packet Inspection”, IEEE Transactions on Network and Service
-Management, Dec. 2025, to be published **(new!)**
+* Qi Zhang, **Kun Qiu**, Zhe Chen, Wenjun Zhu, Xiaofan Xu, Ping Du, Yue Gao, “Eunomia: A Multicontroller Domain Partitioning Framework in Hierarchical Satellite Networks”, IEEE Journal on Selected Areas in Communication, Dec. 2025, to be published **(new!)**
+* Ziheng Yang, **Kun Qiu**, Zhe Chen, Wenjun Zhu and Yue Gao, “Tyche: A Hybrid Computation Framework of Illumination Pattern for Satellite Beam Hopping”, IEEE Journal on Selected Areas in Communication, Dec. 2025, to be published **(new!)**
+* Yang Liu, Wenjun Zhu, Harry Chang, Yang Hong, Geoff Langdale, **Kun Qiu**, Jin Zhao, “Hyperflex: A SIMD-Based DFA Model for Deep Packet Inspection”, IEEE Transactions on Network and Service Management, Dec. 2025, to be published **(new!)**
 * Xiangshuai Meng, Jinhu Ou, **Kun Qiu**, Jin Zhao, “Network Traffic Application Identification Method Based on Automatic Generation of Domain Name Rules”,《基于域名规则自动生成的网络流量应用识别方法》(in Chinese), Journal of Cyber Security, to be published **(new!)**
 * Zhiyuan Zhao, Zhe Chen, Zheng Lin, Wenjun Zhu, **Kun Qiu**, Chaoqun You, Yue Gao, “LEO Satellite Networks Assisted Geo-distributed Data Processing“, IEEE Wireless Communications Letters, Vol. 14(2):405-409, Nov. 2024
 * Wenhao Liu, Jiazhi Wu, Quanwei Lin, Handong Luo, Qi Zhang, **Kun Qiu**, Zhe Chen, Yue Gao, “Efficient Satellite-Ground Interconnection Design for Low-orbit Mega-Constellation Topology”, IEEE Transactions on Mobile Computing, Vol. 24(3):2098–2109, Mar. 2025
