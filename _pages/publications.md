@@ -15,8 +15,8 @@ Journals
 =====
 * Lingkai Zhao, Zhe Chen, **Kun Qiu**, Yue Gao, “Aidos: A Hybrid Optimization Algorithm for Beam Hopping Scheduling in NGSO Mega-Constellations“, IEEE Transactions on Mobile Computing, 2026, to be published **(new!)**
 * Boyu Yang, Chunyu Yang, Zhe Chen, **Kun Qiu**, Yue Gao, “Agon: A Semi-Supervised Framework for Robust Satellite Interference Detection“, IEEE Transactions on Mobile Computing, 2026, to be published **(new!)**
-* Zhe Li, Chengxuan Pei, Yanyue Xu, Sifan Hou, Onur Barut, **Kun Qiu**, Jin Zhao, “RET-Net: A CNN Framework for Real-Time Traffic Classification Using Key-Byte Mechanism“, IEEE Transactions on Network and Service Management, Apr. 2026, 23, 4403-4419
-* Qi Zhang, **Kun Qiu**, Zhe Chen, Wenjun Zhu, Xiaofan Xu, Ping Du, Yue Gao, “Eunomia: A Multicontroller Domain Partitioning Framework in Hierarchical Satellite Networks”, IEEE Journal on Selected Areas in Communication, 44, 2807-28202794-2806, Dec. 2025
+* Zhe Li, Chengxuan Pei, Yanyue Xu, Sifan Hou, Onur Barut, **Kun Qiu**, Jin Zhao, “RET-Net: A CNN Framework for Real-Time Traffic Classification Using Key-Byte Mechanism“, IEEE Transactions on Network and Service Management, 23, 4403-4419, Apr. 2026,  **(new!)**
+* Qi Zhang, **Kun Qiu**, Zhe Chen, Wenjun Zhu, Xiaofan Xu, Ping Du, Yue Gao, “Eunomia: A Multicontroller Domain Partitioning Framework in Hierarchical Satellite Networks”, IEEE Journal on Selected Areas in Communication, 44, 2807-2820, Dec. 2025
 * Ziheng Yang, **Kun Qiu**, Zhe Chen, Wenjun Zhu and Yue Gao, “Tyche: A Hybrid Computation Framework of Illumination Pattern for Satellite Beam Hopping”, IEEE Journal on Selected Areas in Communication, 44, 2794-2806, Dec. 2025
 * Yang Liu, Wenjun Zhu, Harry Chang, Yang Hong, Geoff Langdale, **Kun Qiu**, Jin Zhao, “Hyperflex: A SIMD-Based DFA Model for Deep Packet Inspection”, IEEE Transactions on Network and Service Management, 23, 1515-1528, Dec. 2025
 * Xiangshuai Meng, Jinhu Ou, **Kun Qiu**, Jin Zhao, “Network Traffic Application Identification Method Based on Automatic Generation of Domain Name Rules”,《基于域名规则自动生成的网络流量应用识别方法》(in Chinese), Journal of Cyber Security, to be published
