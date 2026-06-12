@@ -58,11 +58,11 @@ Services
     * 1st Terminology Working Committee of the CIC, Member
     * 2nd China National ICT Terminology Review Committee, Secretary
   * CCF Senior Member
-    * CCF Young Computer Scientists & Engineers Forum (YOCSEF), Shanghai Committee Member
+    * CCF Young Computer Scientists & Engineers Forum (YOCSEF), Shanghai Acdemic Committee Member
   * IEEE Senior Member
   * ACM Member
 * **TPC Member**
-  * IEEE Network of Future (NoF) 2023-2025, TPC
+  * IEEE Network of Future (NoF) 2023-2026, TPC
   * IEEE International Conference on Communications（ICC）2025, TPC Member
   * International Conference on Big Data Computing and Communications (BIGCOM) 2025, TPC Member
 * **OC Member**
