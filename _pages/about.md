@@ -63,7 +63,7 @@ Services
   * ACM Member
 * **TPC Member**
   * IEEE Network of Future (NoF) 2023-2026, TPC
-  * IEEE International Conference on Communications（ICC）2025, TPC Member
+  * IEEE International Conference on Communications（ICC）2025-2026, TPC Member
   * International Conference on Big Data Computing and Communications (BIGCOM) 2025, TPC Member
 * **OC Member**
   * International Conference on Network and Service Management (CNSM) 2024, Publicity Chair
